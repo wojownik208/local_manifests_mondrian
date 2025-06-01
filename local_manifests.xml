@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="wojownik208" fetch="https://github.com/wojownik208" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/xiaomi/mondrian" name="android_device_xiaomi_mondrian" remote="wojownik208" revision="lineage-22.2" />
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/mondrian" name="device_xiaomi_mondrian-kernel" remote="wojownik208" revision="main" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/mondrian" name="proprietary_vendor_xiaomi_mondrian" remote="wojownik208" revision="lineage-22.2" />
+
+    <!-- Vendor - Common -->
+
+</manifest>
